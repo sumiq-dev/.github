@@ -9,7 +9,6 @@
   SQ-001   Study Algorithm    prototype   study app for your own material
   SQ-002   sumiq-brain        prototype   a second brain AI agents maintain themselves
   SQ-003   agent-workflows    planned     how sumiq builds with AI coding agents
-  SQ-004   selfhost-kit       planned     docker · caddy · backups that restore
 
   EXPERIMENTS
   EXP-001  running   does a guided study method beat simply studying harder?
