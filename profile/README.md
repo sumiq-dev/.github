@@ -28,4 +28,4 @@
 | `CH-03` | GitHub — you are here |
 | `CH-04` | [sumiq.dev](https://sumiq.dev) — the permanent record |
 
-<sub>est. 2026 · made in Germany · bound for 日本</sub>
+<sub>est. 2026</sub>
